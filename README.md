@@ -1,4 +1,4 @@
-# poem
+# PoEM
 Proof of Existence Manager
 
 This repository is a wraper for OpenTimestamps. https://github.com/opentimestamps/javascript-opentimestamps
